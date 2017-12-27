@@ -1,0 +1,15 @@
+{
+  "short_name": "Phó Ánh Sáng",
+  "name": "Phó Ánh Sáng - Delicious Phó",
+  "icons": [
+    {
+      "src": "https://emojipedia-us.s3.amazonaws.com/thumbs/120/emoji-one/104/steaming-bowl_1f35c.png",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "./index.html",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}

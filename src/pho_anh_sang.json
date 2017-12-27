@@ -1,0 +1,30 @@
+{
+	"hero": {
+		"title": "Phó ánh sáng",
+		"sub_title": "Vietnamese Cuisine",
+		"call_to_action": "Call us to order!",
+		"call_to_action_value": "780 465 4444",
+		"image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/B%C3%BAn_b%C3%B2_Hu%E1%BA%BF_minh28397.jpg/1280px-B%C3%BAn_b%C3%B2_Hu%E1%BA%BF_minh28397.jpg",
+		"navigation": [
+			"About",
+			"Menu",
+			"Order"
+		]
+	},
+	"cards": {
+		"title": "Only in Edmonton",
+		"description": "As a final step, you may find it convenient to run watch-css automatically with npm start, and run build-css as a part of npm run build. You can use the && operator to execute two scripts sequentially. However, there is no cross-platform way to run two scripts in parallel, so we will install a package for this:  As a final step, you may find it convenient to run watch-css automatically with npm start, and run build-css as a part of npm run build. You can use the && operator to execute two scripts sequentially. However, there is no cross-platform way to run two scripts in parallel, so we will install a package for this:",
+		"image_url": "https://upload.wikimedia.org/wikipedia/commons/6/65/Soup_Bowl_%28cropped%29.jpg"
+	},
+	"menu": [{
+		"image_url": "",
+		"price": "",
+		"description": ""
+	}],
+	"location": {
+		"street": "",
+		"city": "",
+		"postal_code": "",
+		"map_url": ""
+	}
+}
