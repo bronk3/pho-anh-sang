@@ -26,5 +26,11 @@
 		"city": "",
 		"postal_code": "",
 		"map_url": ""
-	}
+	},
+  "map": {
+    "api_key": "AIzaSyArN3gj9BYqPW4YEdU8AjhXZq2P41eocOo",
+    "location": { "lat": 53.6425235, "lng": -113.6275789 },
+    "zoom": 17,
+    "marker_image": "/location_icon.svg"
+  }
 }

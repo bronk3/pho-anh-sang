@@ -129,3 +129,28 @@ h1, h2, h3, h4, h5, h6 {
   };
   background-size: cover;
 }
+
+ .map {
+     position: relative;
+     background: #5eb445;
+     padding: 20px 20px 0 20px;
+
+     &:after {
+         content: " ";
+         position: absolute;
+         right: 50%;
+         top: 0;
+         width: 0;
+         height: 0;
+         border-top: 18px solid #fff;
+         border-bottom: 20px solid transparent;
+         border-left: 20px solid transparent;
+         border-right: 20px solid transparent;
+     }
+
+     &__pane {
+         height: 300px;
+         width: 100%;
+     }
+
+ }
